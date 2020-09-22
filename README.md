@@ -4,4 +4,4 @@ As a Mapper within the newly formed Lake County Mapping Department, I specialize
 # Lake County Internal Project Map
 This is an map intended to visualize ideas and proposed projects to foster meaningful conversation.
 #
-![projectmap](mymapgithub.jpg)
+![projectmap](mymapgithub.JPG)
