@@ -1,2 +1,2 @@
-# bryceehrlich.github.io
+# Bryce's GIS Portfolio
 GIS Portfolio
